@@ -1,0 +1,9 @@
+  name: ReportSystem
+  main: me.fluffix.ReportSystem
+  version: BETA 1.00.00 BUILD-ID 10042020
+  author: Florian
+  description: The system to manage reports from other players
+
+  commands:
+    report:
+    reports:
